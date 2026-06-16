@@ -1,5 +1,8 @@
 # Worker Safety in a Classical Warehouse with Cosmos 3 Reasoner
 
+> **Authors:** [Paula Ramos](https://linkedin.com/in/paularamos)
+> **Organization:** [NVIDIA](https://nvidia.com/)
+
 Classify industrial safety behaviors from warehouse surveillance videos using the
 Cosmos 3 Reasoner (VLM). The model performs 8-class safety classification via
 structured chain-of-thought reasoning and outputs machine-readable JSON — no
