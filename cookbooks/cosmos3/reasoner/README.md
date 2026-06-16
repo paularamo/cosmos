@@ -19,6 +19,7 @@ directories alongside `basic_examples/` — see the
 | Reasoner inference | Cosmos Framework | [`basic_examples/run_with_cosmos_framework.ipynb`](./basic_examples/run_with_cosmos_framework.ipynb) |
 | Reasoner inference | vLLM | [`basic_examples/run_with_vllm.ipynb`](./basic_examples/run_with_vllm.ipynb) |
 | Reasoner inference | NIM | [`basic_examples/run_with_nim.ipynb`](./basic_examples/run_with_nim.ipynb) |
+| Worker Safety (industrial VLM) | vLLM | [`worker_safety/run_worker_safety_with_vllm.ipynb`](./worker_safety/run_worker_safety_with_vllm.ipynb) |
 
 ## Reasoner Prompt Guide
 
