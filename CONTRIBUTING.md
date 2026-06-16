@@ -169,6 +169,22 @@ Examples:
 
 For markdown-only guides (no notebook): `run_<task>_with_<backend>.md`
 
+### 6. Author Attribution
+
+Every cookbook must credit its authors to increase visibility and recognition:
+
+- **README:** Include an author block immediately after the title (see [README template](#cookbook-readme-template))
+- **Notebook:** Include an author block in the first markdown cell, right after the SPDX header and title
+
+Use this format:
+
+```markdown
+> **Authors:** [Full Name](https://linkedin.com/in/handle), [Full Name](https://linkedin.com/in/handle)
+> **Organization:** [Your Organization](https://your-org.com/)
+```
+
+This is required for all new contributions and encouraged for existing cookbooks.
+
 ---
 
 ## Cookbook README Template
@@ -177,6 +193,9 @@ Each cookbook directory needs a `README.md`. Use this structure:
 
 ```markdown
 # [Cookbook Title]
+
+> **Authors:** [Your Name](https://linkedin.com/in/your-handle)
+> **Organization:** [Your Organization](https://your-org.com/)
 
 One-paragraph description of what this cookbook demonstrates and why it matters.
 
